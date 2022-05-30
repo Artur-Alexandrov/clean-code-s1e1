@@ -16,7 +16,8 @@ body {
   width: 100%;
 }
 
-.matrix-block .more_inf {
+.matrix-block 
+.more_inf {
   font-family: "Fantasy";
 }
 
@@ -49,11 +50,13 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li, 
+h3 {
   list-style:none;
 }
 
-input,button {
+input,
+button {
   outline:none;
 }
 
